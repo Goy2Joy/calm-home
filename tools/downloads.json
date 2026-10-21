@@ -1,0 +1,14 @@
+{
+  "Darwin": {
+    "url": "https://download.tizen.org/sdk/Installer/tizen-studio_6.1/web-ide_Tizen_Studio_6.1_macos-64.dmg",
+    "bytes": 652807192,
+    "sha256": "a9b0afc01923dbd8bb8c927c6ffaeb4f108a3830a8be33ddc839e58f92ab2392",
+    "status": "downloaded and used on Apple Silicon with Rosetta"
+  },
+  "Windows": {
+    "url": "https://download.tizen.org/sdk/Installer/tizen-studio_6.1/web-ide_Tizen_Studio_6.1_windows-64.exe",
+    "bytes": 660423048,
+    "sha256": null,
+    "status": "official download verified; Windows installation not tested here"
+  }
+}

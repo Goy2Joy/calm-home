@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://calm-home.invalid/app" version="0.3.4" viewmodes="maximized">
+  <tizen:application id="CalmHome01.Home" package="CalmHome01" required_version="8.0"/>
+  <content src="index.html"/>
+  <name>Calm Home</name>
+  <description>A quiet home screen for your own apps.</description>
+  <icon src="icon.png"/>
+  <access origin="https://api.themoviedb.org"/>
+  <access origin="https://image.tmdb.org"/>
+  <access origin="https://api.open-meteo.com"/>
+  <access origin="https://api.binance.com"/>
+  <tizen:privilege name="http://tizen.org/privilege/internet"/>
+  <tizen:profile name="tv-samsung"/>
+  <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+  <tizen:privilege name="http://tizen.org/privilege/tv.window"/>
+  <tizen:setting screen-orientation="landscape" context-menu="disable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>

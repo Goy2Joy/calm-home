@@ -1,0 +1,10 @@
+{
+  "verifiedModel": "UN65CU7000DXZA",
+  "verifiedBuild": "T-KSU2ECAKUC-0080-REL-202412040254",
+  "requiredTizen": "8.0",
+  "rootSourceRepository": "https://github.com/chris-ritsen/samsung-tv-root",
+  "rootSourceCommit": "4ad2c4d3b0d0e0da4b5b7ebe4a787e94596f416b",
+  "bootManagerSha256": "1817127d2d479e0978cd47370ff3ed1a5a119cc3175aadc9c92e636b7e86b937",
+  "sourceArchiveSha256": "b6e97354df9b2b73de4c84daf32158774491af88f23cef628e135907ae95a027",
+  "sourceArchiveUrl": "https://api.github.com/repos/chris-ritsen/samsung-tv-root/tarball/4ad2c4d3b0d0e0da4b5b7ebe4a787e94596f416b"
+}

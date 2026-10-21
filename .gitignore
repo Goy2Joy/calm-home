@@ -1,0 +1,15 @@
+.setup/
+.venv/
+__pycache__/
+.pytest_cache/
+**/bin/
+**/obj/
+*.wgt
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+*.private.json
+config.local.js
+.DS_Store

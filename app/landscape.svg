@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#122333"/><stop offset=".62" stop-color="#354c61"/><stop offset="1" stop-color="#8196a7"/></linearGradient>
+    <radialGradient id="light" cx=".78" cy=".57" r=".59"><stop stop-color="#bed5e9" stop-opacity=".27"/><stop offset="1" stop-color="#1b3238" stop-opacity="0"/></radialGradient>
+    <linearGradient id="shade" x2="0" y2="1"><stop offset=".1" stop-color="#071115" stop-opacity=".15"/><stop offset="1" stop-color="#081116" stop-opacity=".75"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1920v1080H0z"/>
+  <path fill="url(#light)" d="M0 0h1920v1080H0z"/>
+  <path fill="#344d64" d="M0 720C180 680 270 680 420 715S680 735 850 670s230-65 390-20 220 10 370-40 230-35 310-15v485H0z"/>
+  <path fill="#253b51" d="M0 830c190-90 310-100 470-60s270 70 455-5 280-110 470-55 340 45 525-40v410H0z"/>
+  <path fill="#182c42" d="M0 940c250-125 400-105 620-30s360 50 530-5 370-65 770 30v145H0z"/>
+  <path fill="url(#shade)" d="M0 0h1920v1080H0z"/>
+</svg>
